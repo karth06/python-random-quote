@@ -3,9 +3,10 @@ def main():
 
   #f = open("quotes.txt")
   #quotes = f.readlines()
-  #f.close()
+  # f.close()
 
-  #print(quotes)
+  # print(quotes)
 
-if __name__== "__main__":
-  main()
+
+if __name__ == "__main__":
+    main()
